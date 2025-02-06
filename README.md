@@ -16,6 +16,7 @@ Ho creato uno script in PowerShell con l'intento di semplificare e ottimizzare :
 > Direttamente da qui **`SystemPropertiesProtection`**
 
 ## Avviare la PowerShell con diritti da Amministratore, utilizzando un file batch
+<span> Copiare il codice in un file di testo e rinominarlo con estensione *.bat </span>
 ```
 @echo off
 echo Esecuzione di PowerShell con privilegi di amministratore...
